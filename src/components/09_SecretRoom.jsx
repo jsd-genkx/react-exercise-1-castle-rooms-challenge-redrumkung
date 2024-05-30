@@ -12,7 +12,7 @@ const SecretRoom = ({ message1, onReply }) => {
 
   return (
     <>
-      <div>Castle</div>
+      <div>SecretRoom</div>
       <span>Message for JSD7: {message1}</span>
       <input
         type="text"
